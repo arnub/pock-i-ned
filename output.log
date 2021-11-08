@@ -1,0 +1,870 @@
+15:01:58.022 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:02:55.894 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:03:06.179 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:03:31.985 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:04:01.937 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:04:48.514 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:48.514 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:49.319 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:49.319 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:50.119 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:50.119 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:50.920 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:50.920 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:51.722 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:51.722 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:52.528 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:52.528 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:53.333 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:53.333 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:54.138 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:54.138 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:54.943 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:54.943 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:55.745 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:55.745 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:56.550 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:56.550 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:57.356 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:57.356 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:58.157 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:58.157 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:58.958 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:58.958 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:59.759 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:04:59.759 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:00.565 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:00.565 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:01.367 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:01.367 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:02.173 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:02.173 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:02.976 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:02.976 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:03.777 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:03.777 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:04.583 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:04.583 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:05.385 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:05.385 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:06.190 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:06.190 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:06.993 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:06.993 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:07.796 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:07.796 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:08.596 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:05:08.596 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:07:07.744 [main] INFO  at.kauderwelsch.Main - main-method is running
+15:07:07.749 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:07:07.749 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:07:37.755 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:07:37.755 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:08:07.763 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:08:07.763 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:08:37.771 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:08:37.771 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:09:07.778 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:09:07.778 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:09:37.782 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:09:37.782 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:10:07.793 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:10:07.793 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:10:37.813 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:10:37.813 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:11:07.821 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:11:07.821 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:12:08.609 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:12:08.609 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:16:07.198 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:16:07.198 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:16:37.210 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:16:37.210 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:18:15.513 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:18:15.513 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:19:54.928 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:19:54.928 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:20:25.682 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:20:25.682 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:21:30.998 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:21:30.998 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:22:01.002 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:22:01.002 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:22:31.008 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:22:31.008 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:23:01.010 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:23:01.010 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:23:31.014 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:23:31.014 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:24:01.018 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:24:01.018 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:24:31.025 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
+15:24:31.025 [main] DEBUG at.kauderwelsch.LoggingExampel - error oc.
+java.lang.RuntimeException: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:25)
+	at at.kauderwelsch.LoggingExampel.exceptionHandler(LoggingExampel.java:13)
+	at at.kauderwelsch.Main.doTestLoggingExample(Main.java:17)
+	at at.kauderwelsch.Main.main(Main.java:11)
+Caused by: java.lang.ArithmeticException: / by zero
+	at at.kauderwelsch.LoggingExampel.doSOmething(LoggingExampel.java:23)
+	... 3 common frames omitted
